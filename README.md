@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm John Hinz.  I've been programming computers for about 40 years.  Most recently I'm an architect for a Canadian based software company and I teach at a local college.
 
 <!--
 **johnhinz/johnhinz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
